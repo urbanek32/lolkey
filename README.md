@@ -1,5 +1,5 @@
 # lolkey - simple linux keylogger
-Simple keylogger made as Linux Kernel Module. Tested with kernel 3.20 on Debian 7(sid)
+Simple keylogger made as Linux Kernel Module. Tested with kernel 3.16 on Debian 7(sid)
 
 It's a part of academic project, made in educational purposes.
 
@@ -15,4 +15,4 @@ It's a part of academic project, made in educational purposes.
 
 * To remove module you can use ```./unload.sh``` or type ```rmmod lolkey```
 
-Log file is default stored in /root/log.txt
+Log file is default stored in ```/root/log.txt```
